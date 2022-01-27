@@ -1,3 +1,4 @@
+#! 适配rp-*
 # VSCode-Element-Helper
 
 > VSCode-Element-Helper is a VS Code extension for Element-UI. If you use ATOM editor, please go to [ATOM version](https://github.com/ElemeFE/element-helper)
